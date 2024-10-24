@@ -1,5 +1,5 @@
 ## I work with Percy, a great tool for UI/UX testing. It goes well with automated testing. 
-## Here are the real results of my testing
+# Here are the real results of my testing
 
 ## Percy UI/UX testing:
 
